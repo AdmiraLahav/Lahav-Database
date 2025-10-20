@@ -1,3 +1,3 @@
 # Don't use this
-## might need to add a - how many items are stored on the player of each type
-### need to create connections between tables
+## why DB doesnt have a purpose - no interactive part.
+### add a mission table, like in a shop DB that has orders, I will have missions which are interractive
