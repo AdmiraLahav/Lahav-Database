@@ -10,3 +10,4 @@
   - [x] roles <br>
   - [x] squads <br> 
   - [x] weapons<br>
+- [ ] Add Queries
