@@ -9,5 +9,7 @@
   - [ ] reports <br>
   - [x] roles <br>
   - [x] squads <br> 
-  - [x] weapons<br>
-- [x] Add Queries
+  - [x] weapons <br>
+  - [ ] Tables <br>
+- [x] Add Queries <br>
+- [ ] create reports <br>
