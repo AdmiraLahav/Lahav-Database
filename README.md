@@ -1,11 +1,12 @@
 # Don't use this
-- [x] ammo<br>
-- [ ] documents<br>
-- [ ] main <br>
-- [x] missions <br>
-- [x] operators <br>
-- [ ] queries page<br>
-- [ ] reports <br>
-- [x] roles <br>
-- [x] squads <br> 
-- [x] weapons<br>
+- [ ] Create documents:
+  - [x] ammo<br>
+  - [ ] documents<br>
+  - [ ] main <br>
+  - [x] missions <br>
+  - [x] operators <br>
+  - [ ] queries page<br>
+  - [ ] reports <br>
+  - [x] roles <br>
+  - [x] squads <br> 
+  - [x] weapons<br>
