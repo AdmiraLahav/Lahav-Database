@@ -10,6 +10,6 @@
   - [x] roles <br>
   - [x] squads <br> 
   - [x] weapons <br>
-  - [ ] Tables <br>
+  - [x] Tables <br>
 - [x] Add Queries <br>
 - [ ] create reports <br>
