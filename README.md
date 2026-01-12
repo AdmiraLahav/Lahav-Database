@@ -2,7 +2,7 @@
 - [ ] Create documents:
   - [x] ammo<br>
   - [ ] documents<br>
-  - [ ] main <br>
+  - [x] main <br>
   - [x] missions <br>
   - [x] operators <br>
   - [ ] queries page - close to finish, add queries<br>
