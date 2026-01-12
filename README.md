@@ -5,7 +5,7 @@
   - [x] main <br>
   - [x] missions <br>
   - [x] operators <br>
-  - [ ] queries page - close to finish, add queries<br>
+  - [x] queries page<br>
   - [ ] reports <br>
   - [x] roles <br>
   - [x] squads <br> 
