@@ -1,15 +1,17 @@
 # Don't use this
-- [ ] Create documents:
+- [x] Create documents:
   - [x] ammo<br>
-  - [ ] documents<br>
+  - [x] documents<br>
   - [x] main <br>
   - [x] missions <br>
   - [x] operators <br>
   - [x] queries page<br>
-  - [ ] reports <br>
+  - [x] reports <br>
   - [x] roles <br>
   - [x] squads <br> 
   - [x] weapons <br>
   - [x] Tables <br>
 - [x] Add Queries <br>
-- [ ] create reports <br>
+- [x] create reports <br>
+
+- [ ] Word
